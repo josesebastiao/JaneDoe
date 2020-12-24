@@ -29,10 +29,22 @@ ul, a{
  text-decoration: none;
  color: rgb(103, 107, 107);
   padding: 1%;
-}
+  margin-bottom: 2%;
+ }
 
 a:hover{
     color:white;
     background:brown;
+}
 
+.foto{
+  width: 100%;
+   
+}
+
+.rodape{
+    text-align: center;
+    /* margin: 1.5%;
+    padding: 1%;
+    background-color: darkgray; */
 }
