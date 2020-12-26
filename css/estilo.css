@@ -14,7 +14,7 @@ body{
 }
 
 h1{
-    color: brown;
+    color: rgb(240, 101, 9);
     text-align: center;
     padding: 1%;
     text-transform: uppercase;
@@ -52,7 +52,7 @@ ul, a{
 
 a:hover{
     color:white;
-    background:brown;
+    background: rgb(240, 101, 9);
 }      
 
 .img1{
@@ -90,6 +90,7 @@ a:hover{
 
 .lista3{
     color: rgb(240, 101, 9);
+    font-weight: bold;
 }
 
     
