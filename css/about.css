@@ -24,8 +24,6 @@ h1{
     text-align:left;
     margin-right: 15%;
     margin-left: 15%;
-    
-
 }
 
 header{
@@ -55,43 +53,15 @@ a:hover{
     background: rgb(240, 101, 9);
 }      
 
-.img1{
 
-    background-repeat: no-repeat;
-    background: url(../img/jane.jpg);
-    background-size: cover;
-    height: 90vh;
-    margin-left: 1%;
-    margin-right: 1%;
-    margin-bottom: 4%;  
-}
-
-.img2{
-    
+.img3{
+    display: flex;
+    justify-content: center;
     width:40%;
     height: 1%;
-}
-
-.lista-container{
     
-    flex-wrap:wrap;
-    justify-content: space-around;
-    display: inline-flex;
-    text-align:left;
-    margin-right: 15%;
-    margin-left: 15%;
-    margin-top: 3%;
-}
 
-.lista1{
-    margin-top: 5%;
 }
-
-.lista3{
-    color: rgb(240, 101, 9);
-    font-weight: bold;
-}
-
     
 .rodape{
 
