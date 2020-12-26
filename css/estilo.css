@@ -20,6 +20,14 @@ h1{
     text-transform: uppercase;
 }
 
+.text1{
+    text-align:left;
+    margin-right: 15%;
+    margin-left: 15%;
+    
+
+}
+
 header{
     
     border: solid rgb(240, 237, 237) 0.5px ;
@@ -30,7 +38,7 @@ header{
 .nav-bar{
 
     display: flex;
-    justify-content: center;    
+    justify-content: center;     
 }
 
 ul, a{
@@ -47,7 +55,7 @@ a:hover{
     background:brown;
 }      
 
-.fundo{
+.img1{
 
     background-repeat: no-repeat;
     background: url(../img/jane.jpg);
@@ -55,8 +63,31 @@ a:hover{
     height: 90vh;
     margin-left: 1%;
     margin-right: 1%;
+    margin-bottom: 4%;
     
 }
+
+.img2{
+    
+    width:40%;
+    height: 1%;
+}
+
+.lista-container{
+    
+    flex-wrap:wrap;
+    justify-content: space-around;
+    display: inline-flex;
+    text-align:left;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.lista1{
+
+}
+
     
 .rodape{
 
