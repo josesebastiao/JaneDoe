@@ -22,13 +22,17 @@ h1{
 }
 
 h2{
-    margin-top: 10%;
+    margin-top: 5%;
 }
+
+
 
 .container-pai{
     text-align:left;
     margin-right: 15%;
     margin-left: 15%;
+    margin-top: 2%;
+    border-top: solid #d8d8d8 1px;
 }
 
 header{
@@ -59,10 +63,16 @@ a:hover{
 }      
 
 
-.contato-1{
-    border-bottom: solid #d8d8d8 1px;
-
+.formulario{
+    flex-wrap: wrap;
+    text-align:left;
+    margin-right: 15%;
+    margin-left: 15%;
+    display: block;
+    
 }
+
+
     
 .rodape{
 
@@ -71,3 +81,20 @@ a:hover{
     margin-top: 2%;
     padding: 0.5%;
 } 
+
+p{
+     margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px; 
+
+}
+
+/* .map{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    width: 50%;
+    height: 100%;
+    
+}  */
